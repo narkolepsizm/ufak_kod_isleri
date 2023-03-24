@@ -1,2 +1,2 @@
 # ufak_kod_isleri
-ufak kod işleri
+Canım sıkıldığında yazdığım bazı mini uygulamalar
